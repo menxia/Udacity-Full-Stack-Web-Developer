@@ -1,4 +1,4 @@
-# Udacity Full Stack Web Developer Nanodegress
+# Udacity Full Stack Web Developer Nanodegree
 
 Projects of online courese Full Stack Web Developer.
 
